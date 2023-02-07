@@ -1,3 +1,3 @@
-module github.com/fandyaditya/go-learn-module
+module github.com/fandyaditya/golang-learn-module
 
 go 1.20
