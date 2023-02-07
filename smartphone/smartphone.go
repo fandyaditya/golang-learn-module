@@ -42,6 +42,6 @@ func (x Xiaomi) Nfc() bool {
 }
 
 func (x Xiaomi) Infrared() bool {
-	fmt.Println("Infrared not available in" + x.modelName)
+	fmt.Println("Infrared not available in" + x.ModelName)
 	return false
 }
